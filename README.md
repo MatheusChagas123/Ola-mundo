@@ -1,3 +1,3 @@
 # Olá,mundo!
- Primeiro repositorio do curso Git e GitHun
+ Primeiro repositorio do curso Git e GitHub
  Repositório feito em aula.
